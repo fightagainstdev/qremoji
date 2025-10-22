@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/qremoji/static/css/main.30c6f5fa.chunk.css",
+    "main.js": "/qremoji/static/js/main.770d0972.chunk.js",
+    "main.js.map": "/qremoji/static/js/main.770d0972.chunk.js.map",
+    "runtime-main.js": "/qremoji/static/js/runtime-main.5e7497b7.js",
+    "runtime-main.js.map": "/qremoji/static/js/runtime-main.5e7497b7.js.map",
+    "static/js/2.699faf6b.chunk.js": "/qremoji/static/js/2.699faf6b.chunk.js",
+    "static/js/2.699faf6b.chunk.js.map": "/qremoji/static/js/2.699faf6b.chunk.js.map",
+    "index.html": "/qremoji/index.html",
+    "precache-manifest.ae335099958979dc840e8508c212154d.js": "/qremoji/precache-manifest.ae335099958979dc840e8508c212154d.js",
+    "service-worker.js": "/qremoji/service-worker.js",
+    "static/css/main.30c6f5fa.chunk.css.map": "/qremoji/static/css/main.30c6f5fa.chunk.css.map",
+    "static/js/2.699faf6b.chunk.js.LICENSE.txt": "/qremoji/static/js/2.699faf6b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/qremoji/static/media/hero-bg.5cf585fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7497b7.js",
+    "static/js/2.699faf6b.chunk.js",
+    "static/css/main.30c6f5fa.chunk.css",
+    "static/js/main.770d0972.chunk.js"
+  ]
+}
